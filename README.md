@@ -39,7 +39,7 @@ ssm:SpringMVC+Spring+MyBatis CRUD：Create（创建） Retrieve（查询） Upda
 
 
 # 查
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/1.png)
+![image](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRodWIuY29tL2hlbGxvemh1emh1eWUvU1NNLUNSVUQvYmxvYi9tYXN0ZXIvaW1hZ2VzLzEucG5n?x-oss-process=image/format,png)
 
 查询
 • 1、访问index.jsp页面 
@@ -55,7 +55,7 @@ ssm:SpringMVC+Spring+MyBatis CRUD：Create（创建） Retrieve（查询） Upda
 • 4、返回json。实现客户端的无关性。
 
 # 增
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/2.png)
+![image](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRodWIuY29tL2hlbGxvemh1emh1eWUvU1NNLUNSVUQvYmxvYi9tYXN0ZXIvaW1hZ2VzLzIucG5n?x-oss-process=image/format,png)
 新增-逻辑
 • 1、在index.jsp页面点击”新增” 
 • 2、弹出新增对话框 
@@ -69,7 +69,7 @@ ssm:SpringMVC+Spring+MyBatis CRUD：Create（创建） Retrieve（查询） Upda
 • /emp/{id}  DELETE 删除员工
 
 # 改
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/3.png)
+![image](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRodWIuY29tL2hlbGxvemh1emh1eWUvU1NNLUNSVUQvYmxvYi9tYXN0ZXIvaW1hZ2VzLzMucG5n?x-oss-process=image/format,png)
 修改-逻辑
 • 1、点击编辑 
 • 2、弹出用户修改的模态框（显示用户信息） 
@@ -78,9 +78,9 @@ ssm:SpringMVC+Spring+MyBatis CRUD：Create（创建） Retrieve（查询） Upda
 # 删
 
 ## 单个删除
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/5.png)
+[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-NmxcBv7x-1596635489210)(https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/5.png)]
 ## 批量删除
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/4.png)
+![image](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRodWIuY29tL2hlbGxvemh1emh1eWUvU1NNLUNSVUQvYmxvYi9tYXN0ZXIvaW1hZ2VzLzQucG5n?x-oss-process=image/format,png)
 删除-逻辑
 • 1、单个删除 
 • URI:/emp/{id}  DELETE 
