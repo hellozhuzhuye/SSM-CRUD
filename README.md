@@ -39,7 +39,8 @@ ssm:SpringMVC+Spring+MyBatis CRUD：Create（创建） Retrieve（查询） Upda
 
 
 # 查
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/images/1.png)
+![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/1.png)
+
 查询
 • 1、访问index.jsp页面 
 • 2、index.jsp页面发送出查询员工列表请求 
@@ -54,7 +55,7 @@ ssm:SpringMVC+Spring+MyBatis CRUD：Create（创建） Retrieve（查询） Upda
 • 4、返回json。实现客户端的无关性。
 
 # 增
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/images/2.png)
+![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/2.png)
 新增-逻辑
 • 1、在index.jsp页面点击”新增” 
 • 2、弹出新增对话框 
@@ -68,7 +69,7 @@ ssm:SpringMVC+Spring+MyBatis CRUD：Create（创建） Retrieve（查询） Upda
 • /emp/{id}  DELETE 删除员工
 
 # 改
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/images/3.png)
+![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/3.png)
 修改-逻辑
 • 1、点击编辑 
 • 2、弹出用户修改的模态框（显示用户信息） 
@@ -77,9 +78,9 @@ ssm:SpringMVC+Spring+MyBatis CRUD：Create（创建） Retrieve（查询） Upda
 # 删
 
 ## 单个删除
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/images/5.png)
+![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/5.png)
 ## 批量删除
-![image](https://github.com/hellozhuzhuye/SSM-CRUD/images/4.png)
+![image](https://github.com/hellozhuzhuye/SSM-CRUD/blob/master/images/4.png)
 删除-逻辑
 • 1、单个删除 
 • URI:/emp/{id}  DELETE 
